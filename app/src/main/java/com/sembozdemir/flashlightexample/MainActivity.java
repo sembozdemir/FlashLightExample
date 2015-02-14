@@ -18,7 +18,7 @@ public class MainActivity extends ActionBarActivity {
     private ImageButton buttonOnOff;
     private Camera mCamera;
     private boolean isLight;
-    RelativeLayout layout;
+    private RelativeLayout layout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
